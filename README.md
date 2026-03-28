@@ -1,2 +1,19 @@
-# beast-bd
-VSCode extension managing Beads issues
+<table>
+  <tr>
+    <td><img src="resources/extension-icon.png" alt="Beast bd icon" width="128"></td>
+    <td>
+      <h1>Beast bd - VS Code Extension</h1>
+      <p>This VSCode extension uses <a href="https://github.com/steveyegge/beads">Beads</a>.</p>
+      <p>Frok from <a href="https://github.com/jdillon/vscode-beads">vscode-beads</a> ❤️.</p>
+    </td>
+  </tr>
+</table>
+
+## Features:
+- YES!
+
+![Beast bd dashboard screenshot](./docs/images/Screenshot1.png)
+
+![Beast bd dashboard screenshot](./docs/images/Screenshot2.png)
+
+![Beast bd dashboard screenshot](./docs/images/Screenshot3.png)
