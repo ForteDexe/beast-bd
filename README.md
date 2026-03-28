@@ -2,8 +2,8 @@
   <tr>
     <td><img src="resources/extension-icon.png" alt="Beast bd icon" width="128"></td>
     <td>
-      <h1>Beast bd - VS Code Extension</h1>
-      <p>This VSCode extension uses <a href="https://github.com/steveyegge/beads">Beads</a>.</p>
+      <h1>[Beast bd] - VSCode Extension</h1>
+      <p>This extension uses <a href="https://github.com/steveyegge/beads">Beads</a>.</p>
       <p>Frok from <a href="https://github.com/jdillon/vscode-beads">vscode-beads</a> ❤️.</p>
     </td>
   </tr>
